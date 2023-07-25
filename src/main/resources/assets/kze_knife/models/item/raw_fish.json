@@ -1,0 +1,6 @@
+{
+  "parent": "kze_knife:displaysettings/raw_fish.item",
+  "textures": {
+    "layer0": "kze_knife:item/raw_fish"
+  }
+}

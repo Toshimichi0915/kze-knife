@@ -1,0 +1,6 @@
+{
+  "parent": "kze_knife:displaysettings/tetra_knife.item",
+  "textures": {
+    "layer0": "kze_knife:item/tetra_knife"
+  }
+}

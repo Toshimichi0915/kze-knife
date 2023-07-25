@@ -1,0 +1,6 @@
+{
+  "parent": "kze_knife:displaysettings/survival_knife.item",
+  "textures": {
+    "layer0": "kze_knife:item/survival_knife"
+  }
+}

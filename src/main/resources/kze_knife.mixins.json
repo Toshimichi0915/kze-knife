@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.toshimichi.knife.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "MixinMinecraftClient",
+    "MixinPlayerInventory"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "kze_knife",
+  "version": "${version}",
+  "name": "kze-knife",
+  "description": "This mod adds 3D textures to the knives on the KZE server.",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "net.toshimichi.knife.Main"
+    ]
+  },
+  "mixins": [
+    "kze_knife.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  }
+}
